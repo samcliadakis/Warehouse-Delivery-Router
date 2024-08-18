@@ -8,7 +8,7 @@
 - Comb sort removes all the “turtle” values or small values near the end of the list.
 
 ### Treap 
-- The name is a blend of tree and heap
+- Hybrid of a classic tree and heap
 - Used to solve connectivity problems
 - Similar to binary search tree
 - Made to solve the problem of imbalance
@@ -35,10 +35,10 @@ To do this, the business will need to sort the neighborhoods based on the distan
 
 ## Usage Instructions
 - Create a text file with the first line containing two integers being the number of edges (roads) and vertices (neighborhoods)
-- The rest of the lines will contain: the first integer is the source virtice, second integer is the destination, the third weight is the weight (distance)
+- The rest of the lines will contain: the first integer is the source vertice, second integer is the destination, the third weight is the weight (distance)
 
 ## Dependencies
 - Depends on one text file in a specific format
 
 ## Installation Instructions
-- Download the folder which contains every file required, including a test text file
+- Download the folder which contains the files required, including a test text file
