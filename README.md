@@ -1,4 +1,4 @@
-# Warehouse Delivery Network using Comb Sort, Kruskal's algorithm, and Treap
+# Warehouse Delivery Network using Comb Sort, Kruskal's Algorithm, and Treap
 
 ## Introduction of Algorithms
 ### Comb sort
